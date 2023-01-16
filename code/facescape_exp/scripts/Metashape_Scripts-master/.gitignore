@@ -1,0 +1,11 @@
+.venv
+*.whl
+input_images/
+output_meshes/
+*.psz
+input_images_save/
+shape_predictor_68_face_landmarks.dat
+landmarks.npy
+landmarks/
+input_images_resized/
+*.xml
